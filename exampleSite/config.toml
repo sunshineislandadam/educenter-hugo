@@ -1,4 +1,4 @@
-baseURL = "http://www.eclipseap.org"
+baseURL = "https://silly-franklin-dce6ce.netlify.app/"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
